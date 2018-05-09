@@ -1,0 +1,31 @@
+/* .image { */
+    /* height: 25%; */
+    /* margin: 5%; */
+html,
+body {
+    height: 100%;
+}
+
+/* ul.nav {
+    height: 10%;
+} */
+
+nav.navbar {
+    height: 10%;
+}
+
+.carousel {
+    height: 90%;
+}
+.carousel-inner,
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-item img {
+    height: 100%;
+}
+
+/* .col-xs-12 {
+    height: 25%;
+} */
